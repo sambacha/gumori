@@ -1,0 +1,7 @@
+*.astro
+dist/
+*.html
+*.css
+*.scss
+
+
